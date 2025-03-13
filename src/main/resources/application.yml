@@ -1,0 +1,6 @@
+# Application configuration
+client:
+  openai:
+    key: ${EPAM_DIAL_API_KEY}
+    endpoint: https://ai-proxy.lab.epam.com
+    deploymentName: gpt-35-turbo-0125
