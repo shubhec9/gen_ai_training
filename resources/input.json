@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "description": "Sholay (1975) - A multi-genre film about two mercenaries hired by a retired police officer to capture a notorious bandit. Sippy Films."
+  },
+  {
+    "id": 2,
+    "description": "Simhadri (2003) - NTR Jr. as Simhadri seeks revenge against an oppressive villain. Vyjayanthi Movies."
+  },
+  {
+    "id": 3,
+    "description": "3 Idiots (2004) - A comedy-drama about three friends navigating the challenges of the Indian education system while chasing their dreams. Vinod Chopra Films."
+  },
+  {
+    "id": 4,
+    "description": "Chatrapathi (2005) - Prabhas as Shivaji fights for freedom against a cruel ruler. Suresh Productions."
+  },
+  {
+    "id": 5,
+    "description": "Magadheera (2009) - Ram Charan as Ram Chandra seeks vengeance in his past life. Geetha Arts."
+  },
+  {
+    "id": 6,
+    "description": "Lagaan (2001) - A sports-drama where villagers challenge British officers to a cricket match to avoid oppressive taxes. Aamir Khan Productions."
+  },
+  {
+    "id": 7,
+    "description": "Baahubali: The Beginning (2015) - Prabhas as Shivudu uncovers royal heritage and fights for justice. Arka Media Works."
+  },
+  {
+    "id": 8,
+    "description": "Baahubali: The Conclusion (2017) - Prabhas as Mahendra Baahubali avenges his father’s death. Arka Media Works."
+  },
+  {
+    "id": 9,
+    "description": "RRR (2022) - Ram Charan as Alluri Sitarama Raju and NTR Jr. as Komaram Bheem fight British rule. DVV Entertainment."
+  },
+  {
+    "id": 10,
+    "description": "Baahubali: The Lost Legends (2017) - Prabhas (voice) explores Baahubali's legendary tales. Arka Media Works."
+  }
+]
