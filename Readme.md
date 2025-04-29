@@ -14,6 +14,6 @@ Data Sample used: [input sample](resources/input.json)
 curl --location 'http://localhost:8080/api/chat/userPrompt/rag/response' \
 --header 'Content-Type: application/json' \
 --data '{
-"input": "Movies released before 2010"
+"input": "summarize the given paragraph in one line"
 }'
 
